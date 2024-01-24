@@ -1,9 +1,9 @@
 <h1 align="center" style="font-weight: bold;">Hi, I'm Sean Wotherspoon</h1>
 
-<p align="center">I am a third year computer science student at Simon Fraser University. I have a passion for technology with a particular interest in the development and design of software!</p>
+<p align="left">I am a third year computer science student at Simon Fraser University. I have a passion for technology with a particular interest in the development and design of software!</p>
 
 ## Technologies 
-<div align="center" style="display: flex; justify-content: center;">
+<div align="left" style="display: flex; flex-direction: row;">
   <div><a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
   </div>
   <div><a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
