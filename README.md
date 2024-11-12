@@ -1,8 +1,9 @@
 <h1 align="center" style="font-weight: bold;">Hi, I'm Sean Wotherspoon</h1>
 
-<p align="left">I am a third year computer science student at Simon Fraser University. I have a passion for technology with a particular interest in the development and design of software!</p>
+<p align="left">👋 Hi there! I'm a fourth-year Computer Science student at Simon Fraser University, passionate about technology and the development of innovative software solutions. I specialize in both software development and design, always striving to create intuitive and high-performing applications.</p>
+<p align="left">🔧 My interests lie in building scalable, user-friendly systems that blend functionality with sleek design. I enjoy exploring various programming languages, frameworks, and tools to improve my technical skills and create meaningful projects.</p>
 
-## Technologies 
+<h2 align="left" style="font-weight: bold;">Skills & Technologies</h2>
 <div align="left" style="display: flex; flex-direction: row;">
   <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
@@ -28,3 +29,11 @@
   <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
   <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
+
+<h2 align="left" style="font-weight: bold;">Current Focus</h2>
+<p align="left">I am currently working on exciting projects as a Software Engineer Intern for ViRA360 and contributing to open-source initiatives with the SFU Open Source Development Club, where I help develop cutting-edge technologies.</p>
+
+<h2 align="left" style="font-weight: bold;">Let's Connect</h2>
+<p align="left">Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to collaborate on a project or simply chat about tech!</p>
+
+
