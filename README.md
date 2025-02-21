@@ -1,7 +1,8 @@
 <h1 align="center" style="font-weight: bold;">Hi, I'm Sean Wotherspoon</h1>
 
-<p align="left">👋 Hi there! I'm a fourth-year Computer Science student at Simon Fraser University, passionate about technology and the development of innovative software solutions. I specialize in both software development and design, always striving to create intuitive and high-performing applications.</p>
-<p align="left">🔧 My interests lie in building scalable, user-friendly systems that blend functionality with sleek design. I enjoy exploring various programming languages, frameworks, and tools to improve my technical skills and create meaningful projects.</p>
+<p align="left">👋 Hi there! I'm a Computing Science student at Simon Fraser University (SFU) with a passion for data engineering, cloud infrastructure, and scalable software solutions. Currently, I am a Data Engineer Co-op at Samsung R&D, where I build ETL pipelines and optimize data infrastructure for Samsung Health.</p>
+
+<p align="left">🔧 My expertise spans Java, Python, SQL, Apache Spark, Apache Airflow, Docker, and AWS. I enjoy working on big data processing, cloud computing, and automation. I'm constantly exploring new technologies to enhance performance and scalability.</p>
 
 <h2 align="left" style="font-weight: bold;">Skills & Technologies</h2>
 <div align="left" style="display: flex; flex-direction: row;">
@@ -31,9 +32,7 @@
 </div>
 
 <h2 align="left" style="font-weight: bold;">Current Focus</h2>
-<p align="left">I am currently working on exciting projects as a Software Engineer Intern for ViRA360 and contributing to open-source initiatives with the SFU Open Source Development Club, where I help develop cutting-edge technologies.</p>
+<p align="left">I am currently working as a Data Engineer Co-op at Samsung R&D, focusing on ETL development, cloud infrastructure, and data processing pipelines. Alongside this, I serve as Director of Technology for the SFU Open Source Development Club, where I lead initiatives to promote open-source collaboration and technical learning.</p>
 
 <h2 align="left" style="font-weight: bold;">Let's Connect</h2>
-<p align="left">Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to collaborate on a project or simply chat about tech!</p>
-
-
+<p align="left">Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to collaborate on a project or discuss data engineering, cloud computing, or software development!</p>
