@@ -1,38 +1,97 @@
-<h1 align="center" style="font-weight: bold;">Hi, I'm Sean Wotherspoon</h1>
+<h1 align="center">Hi, I'm Sean Wotherspoon 👋</h1>
 
-<p align="left">👋 Hi there! I'm a Computing Science student at Simon Fraser University (SFU) with a passion for data engineering, cloud infrastructure, and scalable software solutions. Currently, I am a Data Engineer Co-op at Samsung R&D, where I build ETL pipelines and optimize data infrastructure for Samsung Health.</p>
+<p align="center">
+  Data Engineer • Full-Stack Builder • Cloud & Infrastructure
+</p>
 
-<p align="left">🔧 My expertise spans Java, Python, SQL, Apache Spark, Apache Airflow, Docker, and AWS. I enjoy working on big data processing, cloud computing, and automation. I'm constantly exploring new technologies to enhance performance and scalability.</p>
+<p align="center">
+  <a href="https://linkedin.com/in/sean-wotherspoon">LinkedIn</a> ·
+  <a href="https://github.com/Seanspoons">GitHub</a> ·
+  <a href="https://mealpository.com">Mealpository</a> ·
+  <a href="https://mcba-league.com">MCBA League</a>
+  <a href="https://kindays.app">KinDays</a>
+</p>
 
-<h2 align="left" style="font-weight: bold;">Skills & Technologies</h2>
-<div align="left" style="display: flex; flex-direction: row;">
-  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>
-  <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-  <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-  <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-  <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-  <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
-  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-</div>
+---
 
-<h2 align="left" style="font-weight: bold;">Current Focus</h2>
-<p align="left">I am currently working as a Data Engineer Co-op at Samsung R&D, focusing on ETL development, cloud infrastructure, and data processing pipelines. Alongside this, I serve as Director of Technology for the SFU Open Source Development Club, where I lead initiatives to promote open-source collaboration and technical learning.</p>
+### 👨‍💻 About Me
 
-<h2 align="left" style="font-weight: bold;">Let's Connect</h2>
-<p align="left">Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to collaborate on a project or discuss data engineering, cloud computing, or software development!</p>
+I'm a **Computing Science student at Simon Fraser University** and a **Data Engineer Co-op at Samsung R&D (Samsung Health)**, where I build and operate **production ETL pipelines** supporting global privacy and compliance metrics (GDPR, CCPA, CDPA, and more).
+
+I enjoy working at the intersection of **data engineering, backend systems, and cloud infrastructure**, especially when it involves designing systems that are reliable, observable, and scalable in real-world production environments.
+
+Alongside my co-op, I actively build and ship full-stack products and lead technical teams in open-source and community settings.
+
+---
+
+### 🏗️ What I’m Working On Now
+
+- **Samsung R&D (Data Engineering)**
+  - Designing and maintaining **Spark + Airflow pipelines** powering privacy analytics
+  - Building conformed data models and enriched tables across large-scale datasets
+  - Developing data generators to simulate production workloads
+  - Improving pipeline reliability, observability, and code quality
+
+- **Mealpository — Founder & Full-Stack Engineer**
+  - AI-powered meal planning platform (Angular + Django + AWS)
+  - OCR-based recipe scanning using Google Vision + LLMs
+  - Production AWS infrastructure (ECS/Fargate, ALB, WAF, RDS, S3, CloudFront)
+  - Terraform-managed infrastructure and secure auth with RBAC
+
+- **Director of Technology — SFU Open Source Development Club**
+  - Mentoring project leads and coordinators
+  - Defining technical standards, onboarding, and documentation practices
+  - Supporting student-led open-source initiatives
+
+---
+
+### 🚀 Selected Projects
+
+**HavenView**  
+*Python, FastAPI, WebRTC, ONVIF, Docker, Cloudflare, Linux*  
+A self-hosted, privacy-first home security and NVR platform supporting live and recorded video, motion events, and real-time notifications. Designed for reliability, low latency streaming, and local-first data ownership, with a custom backend and modern web UI.
+
+**KinDays**  
+*React, TypeScript, Supabase, PostgreSQL*  
+A private, family-oriented web application for tracking meaningful days and milestones. Focused on clean UX, data privacy, and long-term maintainability rather than public social sharing.
+
+**MCBA League**  
+*React, TypeScript, Supabase, PostgreSQL, TailwindCSS*  
+A full-stack basketball league management platform used by live admins to manage schedules, player statistics, standings, and analytics.
+
+
+---
+
+### 🧰 Technical Focus
+
+**Languages**  
+Python · Java · Scala · TypeScript · JavaScript · SQL
+
+**Data & Backend**  
+Apache Spark · Apache Airflow · Django · REST APIs · PostgreSQL
+
+**Cloud & Infrastructure**  
+AWS · Docker · Terraform · Linux · CI/CD · Cloud Monitoring
+
+**Frontend**  
+React · Angular · Next.js · TailwindCSS
+
+**Other**  
+OCR (Google Vision API) · LLM Integration (Groq / Llama-3.3-70B)
+
+---
+
+### 🎯 What I Care About
+
+- Designing systems that **work in production**
+- Clean data models and reliable pipelines
+- Infrastructure that’s observable and maintainable
+- Shipping real products, not just demos
+
+---
+
+### 📫 Let’s Connect
+
+If you’re interested in **data engineering, backend systems, cloud infrastructure, or building products**, feel free to reach out or explore my repositories.
+
+Thanks for stopping by!
