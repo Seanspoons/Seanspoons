@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/sean-wotherspoon">LinkedIn</a> ·
   <a href="https://github.com/Seanspoons">GitHub</a> ·
   <a href="https://mealpository.com">Mealpository</a> ·
-  <a href="https://mcba-league.com">MCBA League</a>
+  <a href="https://mcba-league.com">MCBA League</a> ·
   <a href="https://kindays.app">KinDays</a>
 </p>
 
