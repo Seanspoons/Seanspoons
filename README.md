@@ -1,14 +1,17 @@
 <h1 align="center">Hi, I'm Sean Wotherspoon 👋</h1>
 
 <p align="center">
-  Data Engineer • Full-Stack Builder • Cloud & Infrastructure
+  Backend Systems • Data Engineering • Cloud Infrastructure • Distributed Systems
+</p>
+
+<p align="center">
+  📍 Vancouver, BC
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/sean-wotherspoon">LinkedIn</a> ·
-  <a href="https://github.com/Seanspoons">GitHub</a> ·
+  <a href="https://seanwotherspoon.ca">Portfolio</a> ·
   <a href="https://mealpository.com">Mealpository</a> ·
-  <a href="https://mcba-league.com">MCBA League</a> ·
   <a href="https://kindays.app">KinDays</a>
 </p>
 
@@ -16,32 +19,39 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Computing Science student at Simon Fraser University** and a **Data Engineer Co-op at Samsung R&D (Samsung Health)**, where I build and operate **production ETL pipelines** supporting global privacy and compliance metrics (GDPR, CCPA, CDPA, and more).
+I'm a Computing Science student at Simon Fraser University focused on building **backend systems, data pipelines, and cloud infrastructure**.
 
-I enjoy working at the intersection of **data engineering, backend systems, and cloud infrastructure**, especially when it involves designing systems that are reliable, observable, and scalable in real-world production environments.
+I recently completed a **12-month Data Engineering co-op at Samsung R&D Canada**, where I built and maintained Spark + Airflow pipelines powering privacy compliance analytics for Samsung Health. My work involved designing production data pipelines, implementing conformed data models across large logging datasets, and developing internal tooling to validate ETL transformations.
 
-Alongside my co-op, I actively build and ship full-stack products and lead technical teams in open-source and community settings.
+Outside of work, I build **systems-focused projects and cloud infrastructure**, including:
+
+• **HavenView** — a privacy-first home security platform integrating ONVIF cameras with WebRTC streaming and a FastAPI backend  
+• **Mealpository** — a cloud-native AWS application deployed using Terraform, ECS/Fargate, and RDS  
+• **Personal streaming analytics platform (in progress)** exploring event ingestion, windowed aggregation, and replayable analytics pipelines
+
+I'm particularly interested in:
+
+- distributed data processing
+- backend architecture
+- infrastructure as code
+- system reliability and observability
 
 ---
 
-### 🏗️ What I’m Working On Now
+### 🏗️ What I'm Working On
 
-- **Samsung R&D (Data Engineering)**
-  - Designing and maintaining **Spark + Airflow pipelines** powering privacy analytics
-  - Building conformed data models and enriched tables across large-scale datasets
-  - Developing data generators to simulate production workloads
-  - Improving pipeline reliability, observability, and code quality
+- **Personal Streaming Analytics Platform**
+  - Event ingestion pipeline
+  - Windowed aggregation engine
+  - Replayable event streams
+  - Observability and monitoring
 
-- **Mealpository — Founder & Full-Stack Engineer**
-  - AI-powered meal planning platform (Angular + Django + AWS)
-  - OCR-based recipe scanning using Google Vision + LLMs
-  - Production AWS infrastructure (ECS/Fargate, ALB, WAF, RDS, S3, CloudFront)
-  - Terraform-managed infrastructure and secure auth with RBAC
+- **HavenView**
+  - Reliability improvements for local-first deployments
+  - Monitoring and event processing improvements
 
-- **Director of Technology — SFU Open Source Development Club**
-  - Mentoring project leads and coordinators
-  - Defining technical standards, onboarding, and documentation practices
-  - Supporting student-led open-source initiatives
+- **SFU Open Source Development Club**
+  - Mentoring developers and helping structure student projects
 
 ---
 
@@ -49,15 +59,19 @@ Alongside my co-op, I actively build and ship full-stack products and lead techn
 
 **HavenView**  
 *Python, FastAPI, WebRTC, ONVIF, Docker, Cloudflare, Linux*  
-A self-hosted, privacy-first home security and NVR platform supporting live and recorded video, motion events, and real-time notifications. Designed for reliability, low latency streaming, and local-first data ownership, with a custom backend and modern web UI.
+A self-hosted, privacy-first home security and NVR platform supporting live and recorded video, motion events, and real-time notifications. Designed for reliability, low-latency streaming, and local-first data ownership, with a custom event pipeline and modern React interface.
 
-**KinDays**  
-*React, TypeScript, Supabase, PostgreSQL*  
-A private, family-oriented web application for tracking meaningful days and milestones. Focused on clean UX, data privacy, and long-term maintainability rather than public social sharing.
+**Mealpository**  
+*AWS, Terraform, Django, Docker, PostgreSQL*  
+A cloud-native backend application and infrastructure stack deployed on AWS using Terraform. The system runs containerized services on ECS/Fargate behind an Application Load Balancer, with supporting infrastructure including RDS, S3, CloudFront, and WAF.
 
 **MCBA League**  
 *React, TypeScript, Supabase, PostgreSQL, TailwindCSS*  
 A full-stack basketball league management platform used by live admins to manage schedules, player statistics, standings, and analytics.
+
+**KinDays**  
+*React, TypeScript, Supabase, PostgreSQL, TailwindCSS*  
+A private family calendar web application built with React and Supabase for managing birthdays, anniversaries, and other meaningful dates. The system supports shared family spaces, milestone tracking, and secure cloud-hosted data storage.
 
 
 ---
@@ -68,7 +82,7 @@ A full-stack basketball league management platform used by live admins to manage
 Python · Java · Scala · TypeScript · JavaScript · SQL
 
 **Data & Backend**  
-Apache Spark · Apache Airflow · Django · REST APIs · PostgreSQL
+Apache Spark · Apache Airflow · Django / FastAPI · REST APIs · PostgreSQL
 
 **Cloud & Infrastructure**  
 AWS · Docker · Terraform · Linux · CI/CD · Cloud Monitoring
