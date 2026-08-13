@@ -1,111 +1,57 @@
-<h1 align="center">Hi, I'm Sean Wotherspoon 👋</h1>
+# Sean Wotherspoon
 
-<p align="center">
-  Backend Systems • Data Engineering • Cloud Infrastructure • Distributed Systems
-</p>
+Computing Science student at Simon Fraser University graduating in April 2027. Former Data Engineer co-op at Samsung R&D Canada, interested in data engineering and backend/platform systems.
 
-<p align="center">
-  📍 Vancouver, BC
-</p>
+[LinkedIn](https://www.linkedin.com/in/sean-wotherspoon/)
 
-<p align="center">
-  <a href="https://linkedin.com/in/sean-wotherspoon">LinkedIn</a> ·
-  <a href="https://seanwotherspoon.ca">Portfolio</a> ·
-  <a href="https://mealpository.com">Mealpository</a> ·
-  <a href="https://kindays.app">KinDays</a>
-</p>
+## Experience
 
----
+During my 12-month co-op on the Samsung Health data platform, I worked with Scala, Apache Spark, Airflow and Iceberg.
 
-### 👨‍💻 About Me
+My work included:
 
-I'm a Computing Science student at Simon Fraser University focused on building **backend systems, data pipelines, and cloud infrastructure**.
+- Implementing and testing production Spark transformations, including a daily pipeline supporting one of the team’s largest conformed datasets
+- Creating production Airflow DAGs, supporting backfills and designing jobs to behave safely during reruns
+- Designing and deploying a GDPR analytics system consisting of two reporting tables, two Spark pipelines and two Airflow DAGs
+- Integrating data from DynamoDB and internal lakehouse tables
+- Building the accompanying Tableau reporting and presenting the system to my team and senior engineers
+- Contributing to dependency management, development-environment tooling and local debugging workflows
 
-I recently completed a **12-month Data Engineering co-op at Samsung R&D Canada**, where I built and maintained Spark + Airflow pipelines powering privacy compliance analytics for Samsung Health. My work involved designing production data pipelines, implementing conformed data models across large logging datasets, and developing internal tooling to validate ETL transformations.
+I also hold the AWS Certified Solutions Architect – Associate certification.
 
-Outside of work, I build **systems-focused projects and cloud infrastructure**, including:
+## Selected work
 
-• **HavenView** — a privacy-first home security platform integrating ONVIF cameras with WebRTC streaming and a FastAPI backend  
-• **Mealpository** — a cloud-native AWS application deployed using Terraform, ECS/Fargate, and RDS  
-• **Personal streaming analytics platform (in progress)** exploring event ingestion, windowed aggregation, and replayable analytics pipelines
+### [Simple Photo Tools](https://github.com/Seanspoons/simple-photo-tools)
 
-I'm particularly interested in:
+A free, no-login collection of browser-based photo utilities originally created for family members managing small social media accounts. It supports watermarking, collages, resizing, conversion and other common editing workflows while keeping image processing on the user’s device.
 
-- distributed data processing
-- backend architecture
-- infrastructure as code
-- system reliability and observability
+[Live application](https://simplephototools.com/)
 
----
+### [HavenView](https://seanwotherspoon.ca/notes/havenview-v1)
 
-### 🏗️ What I'm Working On
+A self-hosted home security platform that I operate on my home network. It integrates ONVIF cameras with WebRTC streaming, local motion recordings, a FastAPI backend and secure remote access through Cloudflare.
 
-- **Personal Streaming Analytics Platform**
-  - Event ingestion pipeline
-  - Windowed aggregation engine
-  - Replayable event streams
-  - Observability and monitoring
+### [Mealpository](https://mealpository.com/)
 
-- **HavenView**
-  - Reliability improvements for local-first deployments
-  - Monitoring and event processing improvements
+A live meal-planning and recipe product inspired by my family’s recipe binders and weekly planning process. The application uses Django and PostgreSQL and has approximately 30 registered users.
 
-- **SFU Open Source Development Club**
-  - Mentoring developers and helping structure student projects
+I originally designed and provisioned its AWS infrastructure with Terraform using ECS/Fargate, RDS, S3, CloudFront and WAF. I later migrated it to a virtual private server to simplify operations and reduce costs.
 
----
+### Alderwood Software
 
-### 🚀 Selected Projects
+An independent consulting practice through which I am currently delivering a paid website redesign and implementation engagement for a British Columbia client. My responsibilities include stakeholder discovery, design reviews, requirements management and implementation planning.
 
-**HavenView**  
-*Python, FastAPI, WebRTC, ONVIF, Docker, Cloudflare, Linux*  
-A self-hosted, privacy-first home security and NVR platform supporting live and recorded video, motion events, and real-time notifications. Designed for reliability, low-latency streaming, and local-first data ownership, with a custom event pipeline and modern React interface.
+## Technical focus
 
-**Mealpository**  
-*AWS, Terraform, Django, Docker, PostgreSQL*  
-A cloud-native backend application and infrastructure stack deployed on AWS using Terraform. The system runs containerized services on ECS/Fargate behind an Application Load Balancer, with supporting infrastructure including RDS, S3, CloudFront, and WAF.
+- **Data engineering:** Apache Spark, Scala, Apache Airflow, Apache Iceberg, SQL and data modelling
+- **Backend:** Python, FastAPI, Django, PostgreSQL and Redis
+- **Cloud and infrastructure:** AWS, Terraform, Docker, Linux and Cloudflare
+- **Web development:** TypeScript, React, Next.js and Tailwind CSS
 
-**MCBA League**  
-*React, TypeScript, Supabase, PostgreSQL, TailwindCSS*  
-A full-stack basketball league management platform used by live admins to manage schedules, player statistics, standings, and analytics.
+Most of my Samsung work is proprietary, so this profile contains selected personal and academic projects rather than my production code from Samsung Health.
 
-**KinDays**  
-*React, TypeScript, Supabase, PostgreSQL, TailwindCSS*  
-A private family calendar web application built with React and Supabase for managing birthdays, anniversaries, and other meaningful dates. The system supports shared family spaces, milestone tracking, and secure cloud-hosted data storage.
+## What I’m looking for
 
+I am seeking new-graduate data engineering, backend engineering and platform engineering opportunities beginning in spring 2027.
 
----
-
-### 🧰 Technical Focus
-
-**Languages**  
-Python · Java · Scala · TypeScript · JavaScript · SQL
-
-**Data & Backend**  
-Apache Spark · Apache Airflow · Django / FastAPI · REST APIs · PostgreSQL
-
-**Cloud & Infrastructure**  
-AWS · Docker · Terraform · Linux · CI/CD · Cloud Monitoring
-
-**Frontend**  
-React · Angular · Next.js · TailwindCSS
-
-**Other**  
-OCR (Google Vision API) · LLM Integration (Groq / Llama-3.3-70B)
-
----
-
-### 🎯 What I Care About
-
-- Designing systems that **work in production**
-- Clean data models and reliable pipelines
-- Infrastructure that’s observable and maintainable
-- Shipping real products, not just demos
-
----
-
-### 📫 Let’s Connect
-
-If you’re interested in **data engineering, backend systems, cloud infrastructure, or building products**, feel free to reach out or explore my repositories.
-
-Thanks for stopping by!
+I am based in Metro Vancouver, open to Canada-based remote work and authorized to work in Canada without sponsorship.
