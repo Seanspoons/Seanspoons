@@ -31,15 +31,21 @@ A free, no-login collection of browser-based photo utilities originally created 
 
 A self-hosted home security platform that I operate on my home network. It integrates ONVIF cameras with WebRTC streaming, local motion recordings, a FastAPI backend and secure remote access through Cloudflare.
 
+[Technical Write-up](https://simplephototools.com/](https://seanwotherspoon.ca/notes/havenview-v1))
+
 ### [Mealpository](https://mealpository.com/)
 
 A live meal-planning and recipe product inspired by my family’s recipe binders and weekly planning process. The application uses Django and PostgreSQL and has approximately 30 registered users.
 
 I originally designed and provisioned its AWS infrastructure with Terraform using ECS/Fargate, RDS, S3, CloudFront and WAF. I later migrated it to a virtual private server to simplify operations and reduce costs.
 
-### Alderwood Software
+[Live application](https://mealpository.com/)
+
+### [Alderwood Software](https://alderwoodsoftware.ca/)
 
 An independent consulting practice through which I am currently delivering a paid website redesign and implementation engagement for a British Columbia client. My responsibilities include stakeholder discovery, design reviews, requirements management and implementation planning.
+
+[Consulting Website](https://alderwoodsoftware.ca/)
 
 ## Technical focus
 
