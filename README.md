@@ -31,7 +31,7 @@ A free, no-login collection of browser-based photo utilities originally created 
 
 A self-hosted home security platform that I operate on my home network. It integrates ONVIF cameras with WebRTC streaming, local motion recordings, a FastAPI backend and secure remote access through Cloudflare.
 
-[Technical Write-up](https://simplephototools.com/](https://seanwotherspoon.ca/notes/havenview-v1))
+[Technical Write-up](https://seanwotherspoon.ca/notes/havenview-v1)
 
 ### [Mealpository](https://mealpository.com/)
 
