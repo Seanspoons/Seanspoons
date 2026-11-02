@@ -1,8 +1,10 @@
 # Sean Wotherspoon
 
-Computing Science student at Simon Fraser University graduating in April 2027. Former Data Engineer co-op at Samsung R&D Canada, interested in data engineering and backend/platform systems.
+Fourth-year Computing Science student at Simon Fraser University, Class of 2027. I completed a 12-month Data Engineering co-op at Samsung R&D Canada, where I shipped production data pipelines, Airflow workflows and internal data tooling.
 
-[LinkedIn](https://www.linkedin.com/in/sean-wotherspoon/)
+I'm exploring 2027 new-graduate and internship opportunities in software engineering, data engineering, backend systems and cloud infrastructure.
+
+[Portfolio](https://seanwotherspoon.ca/) · [LinkedIn](https://www.linkedin.com/in/sean-wotherspoon/)
 
 ## Experience
 
@@ -27,11 +29,11 @@ A free, no-login collection of browser-based photo utilities originally created 
 
 [Live application](https://simplephototools.com/)
 
-### [HavenView](https://seanwotherspoon.ca/notes/havenview-v1)
+### [HavenView](https://seanwotherspoon.ca/articles/havenview-v1)
 
 A self-hosted home security platform that I operate on my home network. It integrates ONVIF cameras with WebRTC streaming, local motion recordings, a FastAPI backend and secure remote access through Cloudflare.
 
-[Technical Write-up](https://seanwotherspoon.ca/notes/havenview-v1)
+[Technical write-up](https://seanwotherspoon.ca/articles/havenview-v1)
 
 ### [Mealpository](https://mealpository.com/)
 
@@ -45,7 +47,7 @@ I originally designed and provisioned its AWS infrastructure with Terraform usin
 
 An independent consulting practice through which I am currently delivering a paid website redesign and implementation engagement for a British Columbia client. My responsibilities include stakeholder discovery, design reviews, requirements management and implementation planning.
 
-[Consulting Website](https://alderwoodsoftware.ca/)
+[Consulting website](https://alderwoodsoftware.ca/)
 
 ## Technical focus
 
@@ -58,6 +60,10 @@ Most of my Samsung work is proprietary, so this profile contains selected person
 
 ## What I’m looking for
 
-I am seeking new-graduate data engineering, backend engineering and platform engineering opportunities beginning in spring 2027.
+I'm exploring both new-graduate roles and internships in 2027, with a focus on software engineering, data engineering, backend/platform systems and cloud infrastructure.
 
-I am based in Metro Vancouver, open to Canada-based remote work and authorized to work in Canada without sponsorship.
+For internships, I'm particularly interested in four-month Summer 2027 opportunities, with selective consideration of Spring 2027 roles.
+
+I am based in Metro Vancouver, open to remote work within Canada and authorized to work in Canada without sponsorship.
+
+[Get in touch by email](mailto:seangwotherspoon3@gmail.com) or [connect on LinkedIn](https://www.linkedin.com/in/sean-wotherspoon/).
